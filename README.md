@@ -10,7 +10,7 @@ Tenho grande interesse na área de tecnologia, especialmente no desenvolvimento 
 
 ---
 
-<img align="right" height="200" src="https://i.imgur.com/Oqsgrzz.png" />
+<img align="right" height="170" src="https://i.imgur.com/Oqsgrzz.png" />
 
 🛠️ Tecnologias de interesse:
 

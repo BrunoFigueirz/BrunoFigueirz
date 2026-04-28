@@ -1,12 +1,12 @@
 # 🥱 Bruno Rodrigues Figueiredo
 
-## 💻 Desenvolvedor Front-End
+## 💻 Aspirante a Analista de Segurança Cibernética
 
 Olá ;)
 
 Me chamo Bruno, sou natural do Piauí e estudante de Análise e Desenvolvimento de Sistemas, juntamente com o curso técnico em Desenvolvimento de Sistemas, ambos no IFPI Campus Picos.
 
-Tenho grande interesse na área de tecnologia, especialmente no desenvolvimento Front-End, onde venho estudando e praticando HTML, CSS e JavaScript por meio de projetos próprios.
+Atualmente, estou unindo minha experiência em desenvolvimento para construir uma base sólida em segurança defensiva e análise de vulnerabilidades.
 
 ---
 

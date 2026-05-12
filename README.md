@@ -1,10 +1,10 @@
-# 🥱 Bruno Rodrigues Figueiredo
+# 🥱 
 
 ## 💻 Aspirante a Analista de Segurança Cibernética
 
 Olá ;)
 
-Me chamo Bruno, sou natural do Piauí e estudante de Análise e Desenvolvimento de Sistemas, juntamente com o curso técnico em Desenvolvimento de Sistemas, ambos no IFPI Campus Picos.
+Me chamo ., sou natural do Piauí e estudante de Análise e Desenvolvimento de Sistemas, juntamente com o curso técnico em Desenvolvimento de Sistemas, ambos no IFPI Campus Picos.
 
 Atualmente, estou unindo minha experiência em desenvolvimento para construir uma base sólida em segurança defensiva e análise de vulnerabilidades.
 

@@ -21,6 +21,16 @@ Atualmente, estou unindo minha experiência em desenvolvimento para construir um
 </p>
 <br clear="all"> 
 
+---
+
+## Distros usadas em laboratorios
+<p>
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/1280px-Kali-dragon-icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
+  <img height="50" src="http://avatars.githubusercontent.com/u/8180780?s=200&v=4" />  
+</p>
+
+
+
 ## 📬 Contatos
 <p>
   <a href="https://www.instagram.com/f.bruno.sousa?igsh=MWMybDNjM3NmODc1aQ==" target="_blank">

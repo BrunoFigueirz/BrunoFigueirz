@@ -1,4 +1,3 @@
-# 🥱 
 
 ## 💻 Aspirante a Analista de Segurança Cibernética
 
